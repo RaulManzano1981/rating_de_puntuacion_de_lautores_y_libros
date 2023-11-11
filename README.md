@@ -2,3 +2,20 @@
 
 A continuación estudiaremos extrayendo desde una base de datos la información referente a libros, editoriales, reseñas de usuarios y puntuaciones obtenidas.
 
+### Objetivos del estudio.
+
+En esta sección se trabajará con bases de datos de editoriales, información de libros y autores.
+
+Cargar los dataset que estan alojados en la base de datos
+
+Realizar el analisis de la información contenida.
+
+Encontrar el número de libros publicados a partir de una fecha determinada.
+
+Determinar que autores tienen la mayor puntuación.
+
+Encuentrar el número promedio de reseñas de texto entre los usuarios que calificaron más de 50 libros.
+
+En el siguiente link esta el diagrama de la base de datos que se manejará en el proyecto
+
+! Imagen
