@@ -16,7 +16,7 @@ Determinar que autores tienen la mayor puntuación.
 
 Encuentrar el número promedio de reseñas de texto entre los usuarios que calificaron más de 50 libros.
 
-En el siguiente link esta el diagrama de la base de datos que se manejará en el proyecto
+A continuación esta el diagrama de la base de datos que se manejará en el proyecto
 
-! Imagen
+
 ![MER](https://github.com/RaulManzano1981/rating_de_puntuacion_de_lautores_y_libros/assets/120333011/53eeef8f-1b52-45d4-840c-80d526b352f3)
