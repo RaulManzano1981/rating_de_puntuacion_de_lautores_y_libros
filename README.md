@@ -1,1 +1,1 @@
-# rating_de_puntuacion_de_lautores_y_libros
+# rating_de_puntuacion_de_autores_y_libros
